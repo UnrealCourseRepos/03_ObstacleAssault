@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Content/Maps/Main.umap",
+				"C:/Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Content/ObstacleAssault/Maps/Main.umap"
+			]
+		}
+	]
+}
