@@ -2321,3 +2321,643 @@ Script Stack (0 frames) :
 [2023.08.06-10.33.43:419][413]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.08.06-10.33.43:420][414]LogPlayLevel: Display: Destroying online subsystem :Context_24
 [2023.08.06-10.33.44:354][469]LogViewport: Scene viewport resized to 432x297, mode Windowed.
+[2023.08.06-10.53.50:746][755]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2023.08.06-10.54.07:478][883]LogSlate: Window 'Select Path' being destroyed
+[2023.08.06-10.54.09:755][883]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2023.08.06-10.54.09:777][883]LogActorComponent: UnregisterComponent: (/Game/ObstacleAssault/BP_ThirdPersonCharacter.Default__BP_ThirdPersonCharacter_C:CollisionCylinder) Not registered. Aborting.
+[2023.08.06-10.54.09:778][883]LogActorComponent: UnregisterComponent: (/Game/ObstacleAssault/BP_ThirdPersonCharacter.Default__BP_ThirdPersonCharacter_C:CharMoveComp) Not registered. Aborting.
+[2023.08.06-10.54.09:778][883]LogActorComponent: UnregisterComponent: (/Game/ObstacleAssault/BP_ThirdPersonCharacter.Default__BP_ThirdPersonCharacter_C:CharacterMesh0) Not registered. Aborting.
+[2023.08.06-10.54.09:818][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.08.06-10.54.09:908][883]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ObstacleAssault/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.08.06-10.54.09:908][883]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.06-10.54.09:909][883]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.06-10.54.10:044][883]LogViewport: Scene viewport resized to 1141x723, mode Windowed.
+[2023.08.06-10.54.12:782][ 25]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.54.12:783][ 25]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.54.12:784][ 25]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.54.12:784][ 25]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.54.12:784][ 25]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.54.12:786][ 25]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.54.12:841][ 26]LogViewport: Scene viewport resized to 432x297, mode Windowed.
+[2023.08.06-10.54.13:487][ 49]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.06-10.54.18:285][230]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.08.06-10.54.18:310][230]LogContentBrowser: Creating deferred item: NewFolder
+[2023.08.06-10.54.18:336][231]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.08.06-10.54.19:945][319]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprint
+[2023.08.06-10.54.19:946][319]LogContentBrowser: End creating deferred item NewFolder
+[2023.08.06-10.54.21:461][397]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.08.06-10.54.21:461][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.06-10.54.21:506][397]LogViewport: Scene viewport resized to 1370x967, mode Windowed.
+[2023.08.06-10.54.21:609][398]LogViewport: Scene viewport resized to 1370x942, mode Windowed.
+[2023.08.06-10.54.21:694][398]LogViewport: Scene viewport resized to 432x305, mode Windowed.
+[2023.08.06-10.54.21:812][399]LogViewport: Scene viewport resized to 432x297, mode Windowed.
+[2023.08.06-10.54.24:421][512]LogMetaData: Removing '/Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ObstacleAssault/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.08.06-10.54.24:422][512]LogMetaData: Removing '/Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C' ref from Metadata '/Game/ObstacleAssault/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.08.06-10.54.24:422][512]LogMetaData: Removing '/Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C' ref from Metadata '/Game/ObstacleAssault/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.08.06-10.54.24:422][512]LogMetaData: Removing '/Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ObstacleAssault/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.08.06-10.54.24:422][512]LogMetaData: Removing '/Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ObstacleAssault/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.08.06-10.54.24:422][512]LogMetaData: Removing '/Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ObstacleAssault/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.08.06-10.54.24:422][512]LogMetaData: Removing '/Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/ObstacleAssault/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.08.06-10.54.24:422][512]LogMetaData: Removing '/Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ObstacleAssault/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.08.06-10.54.24:422][512]LogMetaData: Removing '/Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C:ReceiveTick' ref from Metadata '/Game/ObstacleAssault/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.08.06-10.54.24:422][512]LogMetaData: Removing '/Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/ObstacleAssault/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.08.06-10.54.24:427][512]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.06-10.54.24:456][512]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.06-10.54.24:504][512]LogSavePackage: Moving output files for package: /Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter
+[2023.08.06-10.54.24:504][512]LogSavePackage: Moving '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Saved/BP_ThirdPersonCharacter6B833F7941964B17DD83808D8992E0AA.tmp' to '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Content/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.uasset'
+[2023.08.06-10.54.24:525][512]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 824 ms)
+[2023.08.06-10.54.24:579][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2023.08.06-10.54.24:613][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.08.06-10.54.24:646][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.08.06-10.54.24:672][512]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.08.06-10.54.24:672][512]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.08.06-10.54.49:103][488]Cmd: DELETE
+[2023.08.06-10.54.49:104][488]Cmd: ACTOR DELETE
+[2023.08.06-10.54.49:114][488]LogEditorActor: Deleted Actor: BP_ThirdPersonCharacter_C
+[2023.08.06-10.54.49:159][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.08.06-10.54.49:162][488]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2023.08.06-10.54.49:169][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.54.57:860][ 56]LogMetaData: Removing '/Game/ObstacleAssault/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C' ref from Metadata '/Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.08.06-10.54.57:860][ 56]LogMetaData: Removing '/Game/ObstacleAssault/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C' ref from Metadata '/Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.08.06-10.54.57:860][ 56]LogMetaData: Removing '/Game/ObstacleAssault/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.08.06-10.54.57:860][ 56]LogMetaData: Removing '/Game/ObstacleAssault/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.08.06-10.54.57:860][ 56]LogMetaData: Removing '/Game/ObstacleAssault/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C:ReceiveTick' ref from Metadata '/Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.08.06-10.54.57:860][ 56]LogMetaData: Removing '/Game/ObstacleAssault/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.08.06-10.54.57:860][ 56]LogMetaData: Removing '/Game/ObstacleAssault/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.08.06-10.54.57:860][ 56]LogMetaData: Removing '/Game/ObstacleAssault/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.08.06-10.54.57:860][ 56]LogMetaData: Removing '/Game/ObstacleAssault/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.08.06-10.54.57:860][ 56]LogMetaData: Removing '/Game/ObstacleAssault/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.08.06-10.54.57:866][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.06-10.54.57:922][ 56]LogSavePackage: Moving output files for package: /Game/ObstacleAssault/BP_ThirdPersonCharacter
+[2023.08.06-10.54.57:922][ 56]LogSavePackage: Moving '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Saved/BP_ThirdPersonCharacterF049398B4FC4EE6DAF751FA105DB2995.tmp' to '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Content/ObstacleAssault/BP_ThirdPersonCharacter.uasset'
+[2023.08.06-10.54.57:937][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 895 ms)
+[2023.08.06-10.54.57:982][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.08.06-10.54.58:014][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.08.06-10.54.58:046][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.08.06-10.54.58:071][ 56]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.08.06-10.54.58:071][ 56]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ObstacleAssault/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.08.06-10.55.02:624][331]LogMetaData: Removing '/Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C' ref from Metadata '/Game/ObstacleAssault/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.08.06-10.55.02:624][331]LogMetaData: Removing '/Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C' ref from Metadata '/Game/ObstacleAssault/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.08.06-10.55.02:624][331]LogMetaData: Removing '/Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/ObstacleAssault/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.08.06-10.55.02:624][331]LogMetaData: Removing '/Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ObstacleAssault/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.08.06-10.55.02:624][331]LogMetaData: Removing '/Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C:ReceiveTick' ref from Metadata '/Game/ObstacleAssault/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.08.06-10.55.02:624][331]LogMetaData: Removing '/Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.SKEL_BP_ThirdPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/ObstacleAssault/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.08.06-10.55.02:624][331]LogMetaData: Removing '/Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ObstacleAssault/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.08.06-10.55.02:624][331]LogMetaData: Removing '/Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ObstacleAssault/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.08.06-10.55.02:624][331]LogMetaData: Removing '/Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ObstacleAssault/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.08.06-10.55.02:624][331]LogMetaData: Removing '/Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ObstacleAssault/BP_ThirdPersonCharacter.PackageMetaData'
+[2023.08.06-10.55.02:631][331]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.06-10.55.02:684][331]LogSavePackage: Moving output files for package: /Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter
+[2023.08.06-10.55.02:684][331]LogSavePackage: Moving '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Saved/BP_ThirdPersonCharacterB1FD574347AC885FC29FD192716968A8.tmp' to '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Content/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.uasset'
+[2023.08.06-10.55.02:701][331]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 965 ms)
+[2023.08.06-10.55.02:753][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.08.06-10.55.02:786][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.08.06-10.55.02:820][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.08.06-10.55.02:850][331]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.08.06-10.55.02:851][331]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.08.06-10.55.39:849][543]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2023.08.06-10.55.39:849][543]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2023.08.06-10.55.39:852][543]LogActorFactory: Actor Factory spawned Blueprint /Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/ObstacleAssault/Maps/Main.Main:PersistentLevel.BP_ThirdPersonCharacter_C_1
+[2023.08.06-10.55.39:855][543]LogActorFactory: Actor Factory spawned Blueprint /Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/ObstacleAssault/Maps/Main.Main:PersistentLevel.BP_ThirdPersonCharacter_C_1
+[2023.08.06-10.55.40:297][570]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2023.08.06-10.55.40:297][570]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2023.08.06-10.55.40:306][570]LogActorFactory: Actor Factory spawned Blueprint /Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/ObstacleAssault/Maps/Main.Main:PersistentLevel.BP_ThirdPersonCharacter_C_2
+[2023.08.06-10.55.40:309][570]LogActorFactory: Actor Factory spawned Blueprint /Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/ObstacleAssault/Maps/Main.Main:PersistentLevel.BP_ThirdPersonCharacter_C_2
+[2023.08.06-10.55.40:380][570]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.55.40:417][571]LogViewport: Scene viewport resized to 432x297, mode Windowed.
+[2023.08.06-10.55.49:978][ 19]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.08.06-10.55.49:978][ 19]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.06-10.55.49:978][ 19]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.06-10.55.51:787][156]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.08.06-10.55.51:787][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.06-10.55.51:802][156]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.08.06-10.55.51:802][156]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.06-10.55.51:802][156]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.06-10.55.53:627][261]LogViewport: Scene viewport resized to 1141x723, mode Windowed.
+[2023.08.06-10.56.22:916][933]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.56.22:917][933]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.56.22:918][933]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.56.22:994][934]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.56.24:716][ 65]Cmd: DELETE
+[2023.08.06-10.56.24:717][ 65]Cmd: ACTOR DELETE
+[2023.08.06-10.56.24:731][ 65]LogEditorActor: Deleted Actor: PlayerStart
+[2023.08.06-10.56.24:777][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.08.06-10.56.24:780][ 65]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2023.08.06-10.56.24:789][ 65]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.56.25:716][138]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.06-10.56.25:808][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.08.06-10.56.25:978][138]LogSavePackage: Moving output files for package: /Game/ObstacleAssault/Maps/Main
+[2023.08.06-10.56.25:979][138]LogSavePackage: Moving '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Saved/Main8AA38163446F37EE5C5A59B1EE8DCF83.tmp' to '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Content/ObstacleAssault/Maps/Main.umap'
+[2023.08.06-10.56.25:995][138]LogFileHelpers: Saving map 'Main' took 0.224
+[2023.08.06-10.56.26:007][138]LogFileHelpers: InternalPromptForCheckoutAndSave took 292 ms (total: 1.25 sec)
+[2023.08.06-10.56.26:018][138]AssetCheck: New page: Asset Save: Main
+[2023.08.06-10.56.26:019][138]LogContentValidation: Display: Validating /Script/Engine.World /Game/ObstacleAssault/Maps/Main.Main
+[2023.08.06-10.56.39:835][848]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.06-10.56.39:879][848]LogSavePackage: Moving output files for package: /Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter
+[2023.08.06-10.56.39:879][848]LogSavePackage: Moving '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Saved/BP_ThirdPersonCharacterA10A296F4C974417737510A5C30F3E87.tmp' to '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Content/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.uasset'
+[2023.08.06-10.56.39:890][848]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 1.31 sec)
+[2023.08.06-10.56.39:898][848]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.08.06-10.56.39:898][848]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.08.06-10.56.41:449][946]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.06-10.56.41:459][946]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.08.06-10.56.41:459][946]LogPlayLevel: [PlayLevel] Compiling Main before play...
+[2023.08.06-10.56.41:558][946]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.08.06-10.56.41:559][946]LogPlayLevel: PlayLevel: Blueprint regeneration took 100 ms (1 blueprints)
+[2023.08.06-10.56.41:559][946]PIE: New page: PIE session: Main (Aug 6, 2023, 2:56:41 PM)
+[2023.08.06-10.56.41:559][946]LogPlayLevel: Creating play world package: /Game/ObstacleAssault/Maps/UEDPIE_0_Main
+[2023.08.06-10.56.41:611][946]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051934s)
+[2023.08.06-10.56.41:611][946]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ObstacleAssault/Maps/Main.Main to /Game/ObstacleAssault/Maps/UEDPIE_0_Main.Main (0.051987s)
+[2023.08.06-10.56.41:611][946]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.06-10.56.41:611][946]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.06-10.56.41:612][946]LogAIModule: Creating AISystem for world Main
+[2023.08.06-10.56.41:612][946]LogPlayLevel: PIE: World Init took: (0.001338s)
+[2023.08.06-10.56.41:645][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.08.06-10.56.41:646][946]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.08.06-10.56.41:646][946]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.06-10.56.41:646][946]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.06-10.56.41:646][946]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.06-10.56.41:646][946]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.06-10.56.41:646][946]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.06-10.56.41:646][946]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.06-10.56.41:646][946]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.06-10.56.41:646][946]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.06-10.56.41:647][946]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.06-10.56.41:647][946]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.06-10.56.41:647][946]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.06-10.56.41:650][946]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.06-10.56.41:698][946]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.08.06-10.56.41:698][946]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.06-10.56.41:699][946]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.06-10.56.41:699][946]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.06-10.56.41:700][946]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.08.06-10.56.41:700][946]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.08.06-10.56.41:702][946]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.08.06-10.56.41:702][946]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.08.06-10.56.41:702][946]LogInit: FAudioDevice initialized with ID 5.
+[2023.08.06-10.56.41:702][946]LogAudio: Display: Audio Device (ID: 5) registered with world 'Main'.
+[2023.08.06-10.56.41:702][946]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2023.08.06-10.56.41:707][946]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2023.08.06-10.56.41:725][946]LogWorld: Bringing World /Game/ObstacleAssault/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.08.06-12.56.41
+[2023.08.06-10.56.45:171][946]LogWorld: Bringing up level for play took: 3.465255
+[2023.08.06-10.56.45:175][946]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2023.08.06-10.56.45:178][946]PIE: Server logged in
+[2023.08.06-10.56.45:179][946]PIE: Play in editor total start time 3.721 seconds.
+[2023.08.06-10.56.45:199][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.56.45:200][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.56.45:201][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.56.45:203][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.56.45:204][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.56.45:205][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.56.45:206][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.56.45:208][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.57.03:357][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.06-10.57.03:357][260]LogWorld: BeginTearingDown for /Game/ObstacleAssault/Maps/UEDPIE_0_Main
+[2023.08.06-10.57.03:357][260]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.08.06-10.57.03:360][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.06-10.57.03:366][260]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.06-10.57.03:376][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.06-10.57.03:413][260]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.06-10.57.03:414][260]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2023.08.06-10.57.03:414][260]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.08.06-10.57.03:416][260]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.08.06-10.57.03:422][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.06-10.57.03:431][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.08.06-10.57.03:469][260]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.57.03:470][260]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.57.03:471][260]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.57.03:472][260]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.57.03:473][260]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.57.03:473][260]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.57.03:474][260]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.57.03:476][260]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.57.03:479][261]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.08.06-10.57.41:211][584]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SCK_Casual01/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.08.06-10.57.41:212][584]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.06-10.57.41:212][584]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.06-10.57.42:884][651]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2023.08.06-10.57.42:894][651]LogBlueprint: Warning: [AssetLog] C:\Users\Martin\Repos\UnrealProjects\UnrealCourse\03_ObstacleAssault\ObstacleAssault\Content\SCK_Casual01\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2023.08.06-10.57.42:894][651]LogBlueprint: Warning: [AssetLog] C:\Users\Martin\Repos\UnrealProjects\UnrealCourse\03_ObstacleAssault\ObstacleAssault\Content\SCK_Casual01\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2023.08.06-10.57.43:111][651]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.08.06-10.58.21:546][968]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.08.06-10.58.21:547][968]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.08.06-10.58.48:801][498]LogEditorTransaction: Undo Add Node
+[2023.08.06-10.58.58:389][369]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.08.06-10.59.39:986][940]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.06-10.59.40:027][940]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.06-10.59.40:087][940]LogSavePackage: Moving output files for package: /Game/SCK_Casual01/Blueprints/ThirdPersonCharacter
+[2023.08.06-10.59.40:087][940]LogSavePackage: Moving '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Saved/ThirdPersonCharacter6D020073445F5A5082A63BB2EFF66D47.tmp' to '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset'
+[2023.08.06-10.59.40:099][940]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 1.42 sec)
+[2023.08.06-10.59.40:114][940]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2023.08.06-10.59.40:114][940]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SCK_Casual01/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2023.08.06-10.59.40:779][993]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.59.40:780][993]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.59.40:781][993]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.59.40:781][993]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.59.40:782][993]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.59.40:782][993]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.59.40:783][993]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.59.40:784][993]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.59.42:675][116]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.06-10.59.42:683][116]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.08.06-10.59.42:684][116]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2023.08.06-10.59.42:684][116]LogPlayLevel: [PlayLevel]   Compiling BP_ThirdPersonCharacter as a dependent...
+[2023.08.06-10.59.42:881][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.08.06-10.59.42:883][116]LogPlayLevel: PlayLevel: Blueprint regeneration took 200 ms (2 blueprints)
+[2023.08.06-10.59.42:883][116]PIE: New page: PIE session: Main (Aug 6, 2023, 2:59:42 PM)
+[2023.08.06-10.59.42:883][116]LogPlayLevel: Creating play world package: /Game/ObstacleAssault/Maps/UEDPIE_0_Main
+[2023.08.06-10.59.42:939][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056334s)
+[2023.08.06-10.59.42:939][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ObstacleAssault/Maps/Main.Main to /Game/ObstacleAssault/Maps/UEDPIE_0_Main.Main (0.056382s)
+[2023.08.06-10.59.42:939][116]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.06-10.59.42:939][116]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.06-10.59.42:940][116]LogAIModule: Creating AISystem for world Main
+[2023.08.06-10.59.42:941][116]LogPlayLevel: PIE: World Init took: (0.001807s)
+[2023.08.06-10.59.42:986][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.08.06-10.59.42:987][116]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.08.06-10.59.42:987][116]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.06-10.59.42:987][116]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.06-10.59.42:987][116]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.06-10.59.42:987][116]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.06-10.59.42:987][116]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.06-10.59.42:987][116]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.06-10.59.42:987][116]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.06-10.59.42:987][116]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.06-10.59.42:988][116]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.06-10.59.42:988][116]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.06-10.59.42:988][116]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.06-10.59.42:991][116]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.06-10.59.43:049][116]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.08.06-10.59.43:050][116]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.06-10.59.43:050][116]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.06-10.59.43:050][116]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.06-10.59.43:051][116]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.08.06-10.59.43:051][116]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.08.06-10.59.43:054][116]LogInit: FAudioDevice initialized with ID 6.
+[2023.08.06-10.59.43:054][116]LogAudio: Display: Audio Device (ID: 6) registered with world 'Main'.
+[2023.08.06-10.59.43:054][116]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.08.06-10.59.43:054][116]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.08.06-10.59.43:054][116]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2023.08.06-10.59.43:060][116]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2023.08.06-10.59.43:085][116]LogWorld: Bringing World /Game/ObstacleAssault/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.08.06-12.59.43
+[2023.08.06-10.59.46:550][116]LogWorld: Bringing up level for play took: 3.490105
+[2023.08.06-10.59.46:553][116]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2023.08.06-10.59.46:555][116]PIE: Server logged in
+[2023.08.06-10.59.46:557][116]PIE: Play in editor total start time 3.875 seconds.
+[2023.08.06-10.59.46:575][116]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.59.46:576][116]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.59.46:577][116]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.59.46:578][116]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.59.46:579][116]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.59.46:580][116]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.59.46:581][116]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-10.59.46:583][116]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-11.00.30:777][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.06-11.00.30:777][210]LogWorld: BeginTearingDown for /Game/ObstacleAssault/Maps/UEDPIE_0_Main
+[2023.08.06-11.00.30:778][210]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.08.06-11.00.30:779][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.06-11.00.30:783][210]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.06-11.00.30:790][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.06-11.00.30:816][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.06-11.00.30:819][210]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2023.08.06-11.00.30:819][210]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.08.06-11.00.30:821][210]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.08.06-11.00.30:833][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.08.06-11.00.30:865][211]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.08.06-11.00.34:150][435]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.06-11.00.34:207][436]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.06-11.00.34:266][438]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.06-11.00.40:935][852]LogShaderCompilers: Display: ================================================
+[2023.08.06-11.00.40:935][852]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.06-11.00.40:935][852]LogShaderCompilers: Display: Total job queries 476, among them cache hits 181 (38.03%)
+[2023.08.06-11.00.40:935][852]LogShaderCompilers: Display: Tracking 271 distinct input hashes that result in 112 distinct outputs (41.33%)
+[2023.08.06-11.00.40:935][852]LogShaderCompilers: Display: RAM used: 913.73 KiB of 1.60 GiB budget. Usage: 0.05%
+[2023.08.06-11.00.40:935][852]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.06-11.00.40:935][852]LogShaderCompilers: Display: Shaders Compiled: 271
+[2023.08.06-11.00.40:935][852]LogShaderCompilers: Display: Jobs assigned 275, completed 271 (98.55%)
+[2023.08.06-11.00.40:935][852]LogShaderCompilers: Display: Average time worker was idle: 32.37 s
+[2023.08.06-11.00.40:935][852]LogShaderCompilers: Display: Time job spent in pending queue: average 21.04 s, longest 69.03 s
+[2023.08.06-11.00.40:935][852]LogShaderCompilers: Display: Job execution time: average 2.59 s, max 18.66 s
+[2023.08.06-11.00.40:935][852]LogShaderCompilers: Display: Job life time (pending + execution): average 23.94 s, max 71.76
+[2023.08.06-11.00.40:935][852]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 189.13 s
+[2023.08.06-11.00.40:935][852]LogShaderCompilers: Display: Jobs were issued in 272 batches (only local compilation was used), average 1.01 jobs/batch
+[2023.08.06-11.00.40:935][852]LogShaderCompilers: Display: Average processing rate: 1.43 jobs/sec
+[2023.08.06-11.00.40:935][852]LogShaderCompilers: Display: Total thread time: 507.379 s
+[2023.08.06-11.00.40:935][852]LogShaderCompilers: Display: Total thread preprocess time: 23.9 s
+[2023.08.06-11.00.40:935][852]LogShaderCompilers: Display: Percentage time preprocessing: 4.71%
+[2023.08.06-11.00.40:935][852]LogShaderCompilers: Display: Effective parallelization: 2.68 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.08.06-11.00.40:935][852]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.08.06-11.00.40:935][852]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    1 times, average 8.31 sec, max 8.31 sec, min 8.31 sec)
+[2023.08.06-11.00.40:935][852]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 7.49 sec, max 9.18 sec, min 5.79 sec)
+[2023.08.06-11.00.40:935][852]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ (compiled    1 times, average 6.44 sec, max 6.44 sec, min 6.44 sec)
+[2023.08.06-11.00.40:935][852]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 6.41 sec, max 7.87 sec, min 4.95 sec)
+[2023.08.06-11.00.40:935][852]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   32 times, average 3.54 sec, max 17.60 sec, min 1.27 sec)
+[2023.08.06-11.00.40:935][852]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.08.06-11.00.40:935][852]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.35% of total time (compiled   32 times, average 3.54 sec, max 17.60 sec, min 1.27 sec)
+[2023.08.06-11.00.40:935][852]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.39% of total time (compiled   31 times, average 3.34 sec, max 18.54 sec, min 1.15 sec)
+[2023.08.06-11.00.40:935][852]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 7.27% of total time (compiled   22 times, average 1.68 sec, max 2.90 sec, min 0.74 sec)
+[2023.08.06-11.00.40:935][852]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 5.60% of total time (compiled   11 times, average 2.58 sec, max 4.16 sec, min 1.85 sec)
+[2023.08.06-11.00.40:935][852]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.59% of total time (compiled   13 times, average 2.18 sec, max 7.49 sec, min 0.69 sec)
+[2023.08.06-11.00.40:935][852]LogShaderCompilers: Display: ================================================
+[2023.08.06-11.01.25:874][621]LogContentBrowser: Deferred new asset file creation: MESH_PC_04
+[2023.08.06-11.01.25:892][621]LogContentBrowser: Creating deferred item: MESH_PC_04
+[2023.08.06-11.01.25:913][622]LogContentBrowser: Renaming the item being created (Deferred Item: MESH_PC_04).
+[2023.08.06-11.01.27:949][780]LogContentBrowser: Attempting asset rename: MESH_PC_04 -> MESH_PC_04
+[2023.08.06-11.01.28:299][780]LogContentBrowser: End creating deferred item MESH_PC_04
+[2023.08.06-11.01.28:301][780]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.06-11.01.29:191][844]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/SCK_Casual01/Models/Premade_Characters/MESH_PC_04.MESH_PC_04
+[2023.08.06-11.01.29:213][844]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.06-11.01.29:213][844]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.06-11.01.29:227][844]LogStaticMesh: Display: Building static mesh Sphere_inversenormals...
+[2023.08.06-11.01.29:238][844]LogStaticMesh: Built static mesh [0.02s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2023.08.06-11.01.29:257][844]LogStaticMesh: Display: Building static mesh Floor_Mesh...
+[2023.08.06-11.01.29:259][844]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2023.08.06-11.01.29:272][844]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.06-11.01.29:759][844]LogViewport: Scene viewport resized to 1141x906, mode Windowed.
+[2023.08.06-11.01.30:842][915]LogMeshUtilities: Finished distance field build in 1.5s - 126x126x21 sparse distance field, 0.5Mb total, 0.0Mb always loaded, 80% occupied, 3 triangles, Floor_Mesh
+[2023.08.06-11.01.38:837][526]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.06-11.02.24:452][932]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.06-11.02.32:064][410]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/SCK_Casual01/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2023.08.06-11.02.32:064][410]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.06-11.02.32:064][410]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.06-11.02.32:080][410]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.06-11.02.32:254][410]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.06-11.02.32:254][410]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.06-11.02.32:363][410]LogViewport: Scene viewport resized to 1141x906, mode Windowed.
+[2023.08.06-11.02.33:913][536]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/SCK_Casual01/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2023.08.06-11.02.33:914][536]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.06-11.02.33:914][536]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.06-11.02.33:924][536]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.06-11.02.34:101][536]LogToolMenus: Warning: Menu already registered : SkeletalMeshEditor.MeshContextMenu
+[2023.08.06-11.02.34:293][536]LogViewport: Scene viewport resized to 1141x906, mode Windowed.
+[2023.08.06-11.02.35:456][632]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/SCK_Casual01/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+[2023.08.06-11.02.35:461][632]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.06-11.02.35:461][632]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.06-11.02.35:470][632]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.08.06-11.02.35:649][632]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.06-11.02.35:650][632]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.06-11.02.35:800][632]LogSlate: Took 0.005445 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.08.06-11.02.35:811][632]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2023.08.06-11.02.35:816][632]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.06-11.02.35:816][632]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.06-11.02.35:834][632]LogViewport: Scene viewport resized to 1141x562, mode Windowed.
+[2023.08.06-11.02.35:907][632]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.08.06-11.02.38:044][771]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2023.08.06-11.02.38:044][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.06-11.02.38:057][771]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2023.08.06-11.02.38:057][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.06-11.02.38:119][771]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.08.06-11.02.38:119][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.06-11.02.38:137][771]LogViewport: Scene viewport resized to 1141x912, mode Windowed.
+[2023.08.06-11.02.38:203][772]LogViewport: Scene viewport resized to 1141x906, mode Windowed.
+[2023.08.06-11.02.39:295][842]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2023.08.06-11.02.39:295][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.06-11.02.39:352][842]LogViewport: Scene viewport resized to 1141x923, mode Windowed.
+[2023.08.06-11.02.39:437][843]LogViewport: Scene viewport resized to 1141x906, mode Windowed.
+[2023.08.06-11.02.40:421][919]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.08.06-11.02.40:421][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.06-11.02.40:482][919]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2023.08.06-11.02.40:482][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.06-11.02.40:503][919]LogViewport: Scene viewport resized to 1141x916, mode Windowed.
+[2023.08.06-11.02.40:570][920]LogViewport: Scene viewport resized to 1141x906, mode Windowed.
+[2023.08.06-11.03.23:410][413]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.08.06-11.03.23:503][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.08.06-11.03.24:912][515]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.06-11.03.24:965][515]LogSavePackage: Moving output files for package: /Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter
+[2023.08.06-11.03.24:966][515]LogSavePackage: Moving '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Saved/BP_ThirdPersonCharacter517B51984B94DC38A3936BA51848082C.tmp' to '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Content/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.uasset'
+[2023.08.06-11.03.24:977][515]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 1.49 sec)
+[2023.08.06-11.03.24:985][515]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.08.06-11.03.24:985][515]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.08.06-11.03.43:977][ 83]LogShaderCompilers: Display: ================================================
+[2023.08.06-11.03.43:977][ 83]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.06-11.03.43:977][ 83]LogShaderCompilers: Display: Total job queries 500, among them cache hits 181 (36.20%)
+[2023.08.06-11.03.43:977][ 83]LogShaderCompilers: Display: Tracking 311 distinct input hashes that result in 113 distinct outputs (36.33%)
+[2023.08.06-11.03.43:977][ 83]LogShaderCompilers: Display: RAM used: 1.00 MiB of 1.60 GiB budget. Usage: 0.06%
+[2023.08.06-11.03.43:977][ 83]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.06-11.03.43:977][ 83]LogShaderCompilers: Display: Shaders Compiled: 311
+[2023.08.06-11.03.43:977][ 83]LogShaderCompilers: Display: Jobs assigned 315, completed 311 (98.73%)
+[2023.08.06-11.03.43:977][ 83]LogShaderCompilers: Display: Average time worker was idle: 30.26 s
+[2023.08.06-11.03.43:977][ 83]LogShaderCompilers: Display: Time job spent in pending queue: average 19.03 s, longest 69.03 s
+[2023.08.06-11.03.43:977][ 83]LogShaderCompilers: Display: Job execution time: average 2.55 s, max 18.66 s
+[2023.08.06-11.03.43:977][ 83]LogShaderCompilers: Display: Job life time (pending + execution): average 21.83 s, max 71.76
+[2023.08.06-11.03.43:977][ 83]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 213.11 s
+[2023.08.06-11.03.43:977][ 83]LogShaderCompilers: Display: Jobs were issued in 312 batches (only local compilation was used), average 1.01 jobs/batch
+[2023.08.06-11.03.43:977][ 83]LogShaderCompilers: Display: Average processing rate: 1.46 jobs/sec
+[2023.08.06-11.03.43:977][ 83]LogShaderCompilers: Display: Total thread time: 557.603 s
+[2023.08.06-11.03.43:977][ 83]LogShaderCompilers: Display: Total thread preprocess time: 26.769 s
+[2023.08.06-11.03.43:977][ 83]LogShaderCompilers: Display: Percentage time preprocessing: 4.80%
+[2023.08.06-11.03.43:977][ 83]LogShaderCompilers: Display: Effective parallelization: 2.62 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.08.06-11.03.43:977][ 83]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.08.06-11.03.43:977][ 83]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    1 times, average 8.31 sec, max 8.31 sec, min 8.31 sec)
+[2023.08.06-11.03.43:977][ 83]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 7.49 sec, max 9.18 sec, min 5.79 sec)
+[2023.08.06-11.03.43:977][ 83]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ (compiled    1 times, average 6.44 sec, max 6.44 sec, min 6.44 sec)
+[2023.08.06-11.03.43:978][ 83]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 6.41 sec, max 7.87 sec, min 4.95 sec)
+[2023.08.06-11.03.43:978][ 83]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   37 times, average 3.38 sec, max 17.60 sec, min 1.27 sec)
+[2023.08.06-11.03.43:978][ 83]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.08.06-11.03.43:978][ 83]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.42% of total time (compiled   37 times, average 3.38 sec, max 17.60 sec, min 1.27 sec)
+[2023.08.06-11.03.43:978][ 83]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.92% of total time (compiled   36 times, average 3.24 sec, max 18.54 sec, min 1.15 sec)
+[2023.08.06-11.03.43:978][ 83]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 7.79% of total time (compiled   26 times, average 1.67 sec, max 2.90 sec, min 0.74 sec)
+[2023.08.06-11.03.43:978][ 83]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.42% of total time (compiled   18 times, average 1.99 sec, max 7.49 sec, min 0.69 sec)
+[2023.08.06-11.03.43:978][ 83]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 5.10% of total time (compiled   11 times, average 2.58 sec, max 4.16 sec, min 1.85 sec)
+[2023.08.06-11.03.43:978][ 83]LogShaderCompilers: Display: ================================================
+[2023.08.06-11.03.45:456][160]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (MESH_PC_04) ...
+[2023.08.06-11.03.47:836][269]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (MESH_PC_04) ...
+[2023.08.06-11.03.54:879][719]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (MESH_PC_04) ...
+[2023.08.06-11.04.10:184][762]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (MESH_PC_04) ...
+[2023.08.06-11.04.15:363][ 51]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (MESH_PC_04) ...
+[2023.08.06-11.04.20:872][417]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (MESH_PC_04) ...
+[2023.08.06-11.04.23:533][566]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (MESH_PC_04) ...
+[2023.08.06-11.04.27:582][742]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (MESH_PC_04) ...
+[2023.08.06-11.04.36:487][360]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (MESH_PC_04) ...
+[2023.08.06-11.04.44:416][861]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (MESH_PC_04) ...
+[2023.08.06-11.04.59:195][915]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (MESH_PC_04) ...
+[2023.08.06-11.05.08:641][643]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (MESH_PC_04) ...
+[2023.08.06-11.05.08:650][643]LogMaterial: Display: Material /Game/SCK_Casual01/Materials/Environment_Materials/MAT_BASIC_FLOOR.MAT_BASIC_FLOOR needed to have new flag set bUsedWithSkeletalMesh !
+[2023.08.06-11.05.12:159][809]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (MESH_PC_04) ...
+[2023.08.06-11.05.15:872][981]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (MESH_PC_04) ...
+[2023.08.06-11.06.27:667][510]LogMaterial: Display: Material /Game/SCK_Casual01/Materials/Master_Materials/MAT_A_02.MAT_A_02 needed to have new flag set bUsedWithMorphTargets !
+[2023.08.06-11.06.44:322][856]LogShaderCompilers: Display: ================================================
+[2023.08.06-11.06.44:322][856]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.06-11.06.44:322][856]LogShaderCompilers: Display: Total job queries 630, among them cache hits 196 (31.11%)
+[2023.08.06-11.06.44:322][856]LogShaderCompilers: Display: Tracking 397 distinct input hashes that result in 152 distinct outputs (38.29%)
+[2023.08.06-11.06.44:322][856]LogShaderCompilers: Display: RAM used: 1.23 MiB of 1.60 GiB budget. Usage: 0.08%
+[2023.08.06-11.06.44:322][856]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.06-11.06.44:322][856]LogShaderCompilers: Display: Shaders Compiled: 397
+[2023.08.06-11.06.44:322][856]LogShaderCompilers: Display: Jobs assigned 425, completed 397 (93.41%)
+[2023.08.06-11.06.44:322][856]LogShaderCompilers: Display: Average time worker was idle: 27.74 s
+[2023.08.06-11.06.44:322][856]LogShaderCompilers: Display: Time job spent in pending queue: average 14.72 s, longest 69.03 s
+[2023.08.06-11.06.44:322][856]LogShaderCompilers: Display: Job execution time: average 4.68 s, max 24.63 s
+[2023.08.06-11.06.44:322][856]LogShaderCompilers: Display: Job life time (pending + execution): average 19.95 s, max 71.76
+[2023.08.06-11.06.44:322][856]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 271.92 s
+[2023.08.06-11.06.44:322][856]LogShaderCompilers: Display: Jobs were issued in 358 batches (only local compilation was used), average 1.19 jobs/batch
+[2023.08.06-11.06.44:322][856]LogShaderCompilers: Display: Average processing rate: 1.46 jobs/sec
+[2023.08.06-11.06.44:322][856]LogShaderCompilers: Display: Total thread time: 721.659 s
+[2023.08.06-11.06.44:322][856]LogShaderCompilers: Display: Total thread preprocess time: 32.13 s
+[2023.08.06-11.06.44:322][856]LogShaderCompilers: Display: Percentage time preprocessing: 4.45%
+[2023.08.06-11.06.44:322][856]LogShaderCompilers: Display: Effective parallelization: 2.65 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.08.06-11.06.44:322][856]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.08.06-11.06.44:322][856]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    3 times, average 5.84 sec, max 9.18 sec, min 2.54 sec)
+[2023.08.06-11.06.44:322][856]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    3 times, average 5.35 sec, max 7.87 sec, min 3.21 sec)
+[2023.08.06-11.06.44:322][856]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    2 times, average 5.26 sec, max 8.31 sec, min 2.20 sec)
+[2023.08.06-11.06.44:322][856]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyHQ (compiled    2 times, average 3.97 sec, max 6.44 sec, min 1.51 sec)
+[2023.08.06-11.06.44:322][856]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 3.24 sec, max 3.30 sec, min 3.18 sec)
+[2023.08.06-11.06.44:322][856]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.08.06-11.06.44:322][856]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.01% of total time (compiled   51 times, average 2.97 sec, max 17.60 sec, min 1.27 sec)
+[2023.08.06-11.06.44:323][856]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.93% of total time (compiled   49 times, average 2.94 sec, max 18.54 sec, min 1.15 sec)
+[2023.08.06-11.06.44:323][856]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth - 6.32% of total time (compiled   27 times, average 1.69 sec, max 2.90 sec, min 0.74 sec)
+[2023.08.06-11.06.44:323][856]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.01% of total time (compiled   24 times, average 1.81 sec, max 7.49 sec, min 0.69 sec)
+[2023.08.06-11.06.44:323][856]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 4.67% of total time (compiled   13 times, average 2.59 sec, max 4.16 sec, min 1.85 sec)
+[2023.08.06-11.06.44:323][856]LogShaderCompilers: Display: ================================================
+[2023.08.06-11.08.09:004][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.08.06-11.08.09:126][726]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ObstacleAssault/Maps/Main_Auto1
+[2023.08.06-11.08.09:126][726]LogSavePackage: Moving '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Saved/Main_Auto12D2C8E874ACAFF0EB1A852B2EBFFC3CA.tmp' to '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Saved/Autosaves/Game/ObstacleAssault/Maps/Main_Auto1.umap'
+[2023.08.06-11.08.09:141][726]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ObstacleAssault/Maps/Main' took 0.168
+[2023.08.06-11.08.09:141][726]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.168
+[2023.08.06-11.08.09:143][726]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SCK_Casual01/Materials/Environment_Materials/MAT_BASIC_FLOOR] ([1] browsable assets)...
+[2023.08.06-11.08.09:156][726]OBJ SavePackage:     Rendered thumbnail for [Material /Game/SCK_Casual01/Materials/Environment_Materials/MAT_BASIC_FLOOR.MAT_BASIC_FLOOR]
+[2023.08.06-11.08.09:156][726]OBJ SavePackage: Finished generating thumbnails for package [/Game/SCK_Casual01/Materials/Environment_Materials/MAT_BASIC_FLOOR]
+[2023.08.06-11.08.09:158][726]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SCK_Casual01/Materials/Environment_Materials/MAT_BASIC_FLOOR_Auto1
+[2023.08.06-11.08.09:158][726]LogSavePackage: Moving '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Saved/MAT_BASIC_FLOOR_Auto14A4D4959497889BD4B18E59CE9371C82.tmp' to '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Saved/Autosaves/Game/SCK_Casual01/Materials/Environment_Materials/MAT_BASIC_FLOOR_Auto1.uasset'
+[2023.08.06-11.08.09:159][726]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SCK_Casual01/Materials/Environment_Materials/MAT_FLOOR_3] ([1] browsable assets)...
+[2023.08.06-11.08.09:169][726]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/SCK_Casual01/Materials/Environment_Materials/MAT_FLOOR_3.MAT_FLOOR_3]
+[2023.08.06-11.08.09:169][726]OBJ SavePackage: Finished generating thumbnails for package [/Game/SCK_Casual01/Materials/Environment_Materials/MAT_FLOOR_3]
+[2023.08.06-11.08.09:173][726]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SCK_Casual01/Materials/Environment_Materials/MAT_FLOOR_3_Auto1
+[2023.08.06-11.08.09:173][726]LogSavePackage: Moving '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Saved/MAT_FLOOR_3_Auto187F3336248B2F301F3ED709B25ED29AC.tmp' to '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Saved/Autosaves/Game/SCK_Casual01/Materials/Environment_Materials/MAT_FLOOR_3_Auto1.uasset'
+[2023.08.06-11.08.09:174][726]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SCK_Casual01/Materials/Material_Instances/Mi_A_02_1] ([1] browsable assets)...
+[2023.08.06-11.08.09:182][726]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/SCK_Casual01/Materials/Material_Instances/Mi_A_02_1.Mi_A_02_1]
+[2023.08.06-11.08.09:182][726]OBJ SavePackage: Finished generating thumbnails for package [/Game/SCK_Casual01/Materials/Material_Instances/Mi_A_02_1]
+[2023.08.06-11.08.09:183][726]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SCK_Casual01/Materials/Material_Instances/Mi_A_02_1_Auto1
+[2023.08.06-11.08.09:183][726]LogSavePackage: Moving '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Saved/Mi_A_02_1_Auto19F1F28F849654164FC1C9BAB5491B35B.tmp' to '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Saved/Autosaves/Game/SCK_Casual01/Materials/Material_Instances/Mi_A_02_1_Auto1.uasset'
+[2023.08.06-11.08.09:185][726]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SCK_Casual01/Materials/Master_Materials/MAT_A_02] ([1] browsable assets)...
+[2023.08.06-11.08.09:192][726]OBJ SavePackage:     Rendered thumbnail for [Material /Game/SCK_Casual01/Materials/Master_Materials/MAT_A_02.MAT_A_02]
+[2023.08.06-11.08.09:192][726]OBJ SavePackage: Finished generating thumbnails for package [/Game/SCK_Casual01/Materials/Master_Materials/MAT_A_02]
+[2023.08.06-11.08.09:196][726]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SCK_Casual01/Materials/Master_Materials/MAT_A_02_Auto1
+[2023.08.06-11.08.09:196][726]LogSavePackage: Moving '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Saved/MAT_A_02_Auto19DD600AF466065AE99ACD9B4E77E6402.tmp' to '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Saved/Autosaves/Game/SCK_Casual01/Materials/Master_Materials/MAT_A_02_Auto1.uasset'
+[2023.08.06-11.08.09:198][726]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SCK_Casual01/Models/Premade_Characters/MESH_PC_04] ([1] browsable assets)...
+[2023.08.06-11.08.09:205][726]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/SCK_Casual01/Models/Premade_Characters/MESH_PC_04.MESH_PC_04]
+[2023.08.06-11.08.09:206][726]OBJ SavePackage: Finished generating thumbnails for package [/Game/SCK_Casual01/Models/Premade_Characters/MESH_PC_04]
+[2023.08.06-11.08.09:534][726]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SCK_Casual01/Models/Premade_Characters/MESH_PC_04_Auto1
+[2023.08.06-11.08.09:534][726]LogSavePackage: Moving '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Saved/MESH_PC_04_Auto1E479FBA84D3CE535D03C52B1A7E6B199.tmp' to '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Saved/Autosaves/Game/SCK_Casual01/Models/Premade_Characters/MESH_PC_04_Auto1.uasset'
+[2023.08.06-11.08.09:535][726]LogFileHelpers: Auto-saving content packages took 0.393
+[2023.08.06-11.08.11:962][875]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.06-11.08.12:318][875]LogSavePackage: Moving output files for package: /Game/SCK_Casual01/Models/Premade_Characters/MESH_PC_04
+[2023.08.06-11.08.12:318][875]LogSavePackage: Moving '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Saved/MESH_PC_048924F7224E253F8E44E328BD7AAB322B.tmp' to '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Content/SCK_Casual01/Models/Premade_Characters/MESH_PC_04.uasset'
+[2023.08.06-11.08.12:345][875]LogFileHelpers: InternalPromptForCheckoutAndSave took 383 ms (total: 1.87 sec)
+[2023.08.06-11.08.12:353][875]AssetCheck: New page: Asset Save: MESH_PC_04
+[2023.08.06-11.08.12:353][875]LogContentValidation: Display: Validating /Script/Engine.SkeletalMesh /Game/SCK_Casual01/Models/Premade_Characters/MESH_PC_04.MESH_PC_04
+[2023.08.06-11.08.18:709][404]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-11.08.18:710][404]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-11.08.18:711][404]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-11.08.18:711][404]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-11.08.18:711][404]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-11.08.18:712][404]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-11.08.18:712][404]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-11.08.18:714][404]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-11.08.21:481][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.08.06-11.08.26:442][568]LogSlate: Window 'Delete Assets' being destroyed
+[2023.08.06-11.08.26:619][568]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.08.06-11.08.26:619][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.06-11.08.26:629][568]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/SCK_Casual01/Models/Premade_Characters/MESH_PC_04.MESH_PC_04
+	Asset Type: SkeletalMesh
+[2023.08.06-11.08.27:080][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.08.06-11.08.27:115][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.08.06-11.08.27:140][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.08.06-11.08.33:299][ 41]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.06-11.08.33:307][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.06-11.08.33:307][ 41]PIE: New page: PIE session: Main (Aug 6, 2023, 3:08:33 PM)
+[2023.08.06-11.08.33:307][ 41]LogPlayLevel: Creating play world package: /Game/ObstacleAssault/Maps/UEDPIE_0_Main
+[2023.08.06-11.08.33:344][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037360s)
+[2023.08.06-11.08.33:344][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ObstacleAssault/Maps/Main.Main to /Game/ObstacleAssault/Maps/UEDPIE_0_Main.Main (0.037397s)
+[2023.08.06-11.08.33:344][ 41]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.06-11.08.33:345][ 41]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.06-11.08.33:345][ 41]LogAIModule: Creating AISystem for world Main
+[2023.08.06-11.08.33:346][ 41]LogPlayLevel: PIE: World Init took: (0.001194s)
+[2023.08.06-11.08.33:374][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.08.06-11.08.33:375][ 41]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.08.06-11.08.33:375][ 41]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.06-11.08.33:375][ 41]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.06-11.08.33:375][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.06-11.08.33:375][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.06-11.08.33:375][ 41]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.08.06-11.08.33:375][ 41]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.06-11.08.33:376][ 41]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.08.06-11.08.33:376][ 41]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.06-11.08.33:376][ 41]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.06-11.08.33:376][ 41]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.06-11.08.33:376][ 41]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.06-11.08.33:378][ 41]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.06-11.08.33:409][ 41]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.08.06-11.08.33:409][ 41]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.06-11.08.33:409][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.06-11.08.33:409][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.06-11.08.33:410][ 41]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.08.06-11.08.33:410][ 41]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.08.06-11.08.33:412][ 41]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.08.06-11.08.33:412][ 41]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.08.06-11.08.33:412][ 41]LogInit: FAudioDevice initialized with ID 7.
+[2023.08.06-11.08.33:412][ 41]LogAudio: Display: Audio Device (ID: 7) registered with world 'Main'.
+[2023.08.06-11.08.33:412][ 41]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2023.08.06-11.08.33:415][ 41]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2023.08.06-11.08.33:431][ 41]LogWorld: Bringing World /Game/ObstacleAssault/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2023.08.06-13.08.33
+[2023.08.06-11.08.36:484][ 41]LogWorld: Bringing up level for play took: 3.068172
+[2023.08.06-11.08.36:486][ 41]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2023.08.06-11.08.36:490][ 41]PIE: Server logged in
+[2023.08.06-11.08.36:491][ 41]PIE: Play in editor total start time 3.185 seconds.
+[2023.08.06-11.08.36:507][ 41]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-11.08.36:508][ 41]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-11.08.36:509][ 41]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-11.08.36:510][ 41]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-11.08.36:511][ 41]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-11.08.36:512][ 41]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-11.08.36:512][ 41]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-11.08.36:514][ 41]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-11.09.29:308][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.06-11.09.29:308][ 12]LogWorld: BeginTearingDown for /Game/ObstacleAssault/Maps/UEDPIE_0_Main
+[2023.08.06-11.09.29:308][ 12]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.08.06-11.09.29:311][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.06-11.09.29:318][ 12]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.06-11.09.29:327][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.06-11.09.29:365][ 12]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.06-11.09.29:367][ 12]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2023.08.06-11.09.29:367][ 12]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.08.06-11.09.29:370][ 12]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.08.06-11.09.29:376][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.06-11.09.29:384][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.08.06-11.09.29:411][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-11.09.29:412][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-11.09.29:412][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-11.09.29:412][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-11.09.29:413][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-11.09.29:413][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-11.09.29:414][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-11.09.29:415][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.06-11.09.29:417][ 13]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2023.08.06-11.09.30:946][112]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.08.06-11.09.30:946][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.06-11.09.31:002][112]LogViewport: Scene viewport resized to 1370x953, mode Windowed.
+[2023.08.06-11.09.31:113][113]LogViewport: Scene viewport resized to 1370x942, mode Windowed.
+[2023.08.06-11.09.33:167][246]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.08.06-11.09.33:167][246]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.08.06-11.09.33:167][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.06-11.09.33:206][246]LogViewport: Scene viewport resized to 1370x957, mode Windowed.
+[2023.08.06-11.09.33:292][247]LogViewport: Scene viewport resized to 1370x942, mode Windowed.
+[2023.08.06-11.09.35:940][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.08.06-11.09.35:953][388]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.06-11.09.36:014][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.08.06-11.09.36:116][388]LogSavePackage: Moving output files for package: /Game/ObstacleAssault/Maps/Main
+[2023.08.06-11.09.36:118][388]LogSavePackage: Moving '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Saved/Main21B44B9E4BC10D797F69B2B41F187D7C.tmp' to '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Content/ObstacleAssault/Maps/Main.umap'
+[2023.08.06-11.09.36:128][388]LogFileHelpers: Saving map 'Main' took 0.143
+[2023.08.06-11.09.36:131][388]LogSavePackage: Moving output files for package: /Game/SCK_Casual01/Materials/Environment_Materials/MAT_BASIC_FLOOR
+[2023.08.06-11.09.36:132][388]LogSavePackage: Moving '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Saved/MAT_BASIC_FLOORE24C7EF341EC10D51575629E0BA09F1F.tmp' to '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Content/SCK_Casual01/Materials/Environment_Materials/MAT_BASIC_FLOOR.uasset'
+[2023.08.06-11.09.36:135][388]LogSavePackage: Moving output files for package: /Game/SCK_Casual01/Materials/Environment_Materials/MAT_FLOOR_3
+[2023.08.06-11.09.36:136][388]LogSavePackage: Moving '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Saved/MAT_FLOOR_314497B314D8A6CFDEDD06698158F6B27.tmp' to '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Content/SCK_Casual01/Materials/Environment_Materials/MAT_FLOOR_3.uasset'
+[2023.08.06-11.09.36:139][388]LogSavePackage: Moving output files for package: /Game/SCK_Casual01/Materials/Material_Instances/Mi_A_02_1
+[2023.08.06-11.09.36:140][388]LogSavePackage: Moving '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Saved/Mi_A_02_1C7F0F3EA430DF482894BFBB6D87A5AFD.tmp' to '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Content/SCK_Casual01/Materials/Material_Instances/Mi_A_02_1.uasset'
+[2023.08.06-11.09.36:145][388]LogSavePackage: Moving output files for package: /Game/SCK_Casual01/Materials/Master_Materials/MAT_A_02
+[2023.08.06-11.09.36:145][388]LogSavePackage: Moving '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Saved/MAT_A_026D9EDAE74C43B835F1F9418EB10927F6.tmp' to '../../../../../../Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Content/SCK_Casual01/Materials/Master_Materials/MAT_A_02.uasset'
+[2023.08.06-11.09.36:156][388]LogFileHelpers: InternalPromptForCheckoutAndSave took 202 ms (total: 2.07 sec)
+[2023.08.06-11.09.36:169][388]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.06-11.09.36:169][388]LogContentValidation: Display: Validating /Script/Engine.World /Game/ObstacleAssault/Maps/Main.Main
+[2023.08.06-11.09.36:169][388]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/SCK_Casual01/Materials/Material_Instances/Mi_A_02_1.Mi_A_02_1
+[2023.08.06-11.09.36:169][388]LogContentValidation: Display: Validating /Script/Engine.Material /Game/SCK_Casual01/Materials/Master_Materials/MAT_A_02.MAT_A_02
+[2023.08.06-11.09.36:169][388]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/SCK_Casual01/Materials/Environment_Materials/MAT_FLOOR_3.MAT_FLOOR_3
+[2023.08.06-11.09.36:169][388]LogContentValidation: Display: Validating /Script/Engine.Material /Game/SCK_Casual01/Materials/Environment_Materials/MAT_BASIC_FLOOR.MAT_BASIC_FLOOR

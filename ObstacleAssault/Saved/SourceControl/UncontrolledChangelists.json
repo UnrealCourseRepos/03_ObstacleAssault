@@ -6,7 +6,15 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Content/Maps/Main.umap",
-				"C:/Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Content/ObstacleAssault/Maps/Main.umap"
+				"C:/Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Content/ObstacleAssault/Maps/Main.umap",
+				"C:/Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Content/ObstacleAssault/Blueprint/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Content/ObstacleAssault/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset",
+				"C:/Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Content/SCK_Casual01/Models/Premade_Characters/MESH_PC_04.uasset",
+				"C:/Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Content/SCK_Casual01/Materials/Environment_Materials/MAT_BASIC_FLOOR.uasset",
+				"C:/Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Content/SCK_Casual01/Materials/Environment_Materials/MAT_FLOOR_3.uasset",
+				"C:/Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Content/SCK_Casual01/Materials/Material_Instances/Mi_A_02_1.uasset",
+				"C:/Users/Martin/Repos/UnrealProjects/UnrealCourse/03_ObstacleAssault/ObstacleAssault/Content/SCK_Casual01/Materials/Master_Materials/MAT_A_02.uasset"
 			]
 		}
 	]
