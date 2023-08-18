@@ -27,7 +27,7 @@ void AMovingPlatform::Tick(float DeltaTime)
 	FVector CurrentLocation = GetActorLocation();
 
 		// 1.2 Add vector to that location
-	CurrentLocation.Y += 1;
+	CurrentLocation += PlatformVelocity * DeltaTime;
 		// 1.3 Set the location
 	SetActorLocation(CurrentLocation);
 
