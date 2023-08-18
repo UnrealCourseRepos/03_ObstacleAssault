@@ -1,2 +1,2 @@
-ObstacleAssault/Content/Static/** filter=lfs diff=lfs merge=lfs -text
+*/Content/Static/** filter=lfs diff=lfs merge=lfs -text
 
