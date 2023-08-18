@@ -27,9 +27,24 @@ public:
     int32 MyInt = 99;
 
     UPROPERTY(EditAnywhere)
+    int32 InputA = 0;
+
+    UPROPERTY(EditAnywhere)
+    int32 InputB = 0;
+
+    UPROPERTY(EditAnywhere)
+    int32 APlusB = 0;
+
+    UPROPERTY(EditAnywhere)
+    int32 Test = 4;
+
+    
+
+    UPROPERTY(EditAnywhere)
     float MyFloat = 99.f;
 
     UPROPERTY(EditAnywhere)
     bool MyBool = true;
 
 };
+
