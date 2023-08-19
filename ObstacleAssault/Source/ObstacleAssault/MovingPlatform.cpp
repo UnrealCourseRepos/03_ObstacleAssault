@@ -15,10 +15,7 @@ AMovingPlatform::AMovingPlatform()
 void AMovingPlatform::BeginPlay()
 {
 	Super::BeginPlay();
-
 	StartLocation = GetActorLocation();
-
-	UE_LOG(LogTemp, Display, TEXT("Configured Move Distance: %f"), MoveDistance);
 }
 
 // Called every frame
@@ -42,7 +39,7 @@ void AMovingPlatform::Tick(float DeltaTime)
 	if (DistanceMoved > MoveDistance)
 	{
 		float OverShoot = DistanceMoved - MoveDistance;
-		UE_LOG(LogActor, Warning, TEXT("%s overshoot his move distance by %f"), *GetActorNameOrLabel(), OverShoot)
+		UE_LOG(LogActor, Warning, TEXT("%s overshot by %f"), *GetActorNameOrLabel(), OverShoot)
 
 		// 2.2 Reverse direction of motion if gone too far
 		FVector MoveDirection = PlatformVelocity.GetSafeNormal();
