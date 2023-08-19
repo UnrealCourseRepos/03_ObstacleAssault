@@ -23,17 +23,23 @@ void AMovingPlatform::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
+	MovePlatform(DeltaTime);
+	RotatePlatform(DeltaTime);
+}
+
+void AMovingPlatform::MovePlatform(float DeltaTime)
+{
 	// 1. Move platform forwards
-		// 1.1 Get current location
+	// 1.1 Get current location
 	FVector CurrentLocation = GetActorLocation();
 
-		// 1.2 Add vector to that location
+	// 1.2 Add vector to that location
 	CurrentLocation += PlatformVelocity * DeltaTime;
-		// 1.3 Set the location
+	// 1.3 Set the location
 	SetActorLocation(CurrentLocation);
 
 	// 2. Send platform back if gone too far
-		// 2.1 Check how far we have moved
+	// 2.1 Check how far we have moved
 	const float DistanceMoved =  FVector::Dist(StartLocation, CurrentLocation);
 
 	if (DistanceMoved > MoveDistance)
@@ -48,6 +54,9 @@ void AMovingPlatform::Tick(float DeltaTime)
 
 		PlatformVelocity = -PlatformVelocity;
 	}
-
 }
 
+void AMovingPlatform::RotatePlatform(float DeltaTime)
+{
+	UE_LOG(LogTemp, Display, TEXT("%s Rotating..."), *GetActorNameOrLabel())
+}
